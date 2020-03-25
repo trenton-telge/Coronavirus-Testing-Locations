@@ -3,7 +3,31 @@
     padding: 0;
 }
 iframe {
-    height:calc(100vh - 4px);
+    height:calc(100vh - 64px);
     width:calc(100vw - 4px);
     box-sizing: border-box;
+}
+.footer{
+    height:60px;
+    display: flex;
+    flex-direction: row;
+    background-color: #4d6a79;
+}
+.footer a div {
+    padding:12px;
+    margin: 8px;
+    margin-left: 30px;
+    border-radius: 4px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background-color: #e1cbaf;
+}
+.footer a div p {
+    text-decoration: none;
+    color: #4d6a79;
+}
+.footer a {
+    text-decoration: none;
 }
