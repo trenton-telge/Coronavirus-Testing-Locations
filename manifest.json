@@ -1,0 +1,8 @@
+{
+  "name": "COVID-19 Testing Locations",
+  "short_name": "COVID-19",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#4d6a79"
+}
